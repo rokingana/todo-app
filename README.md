@@ -1,5 +1,5 @@
 # YET ANOTHER TODO APP
-This app is part of my React training
+This app is part of my REACT training
 
 // UPDATES NEEED
 - Clear Input on submit
